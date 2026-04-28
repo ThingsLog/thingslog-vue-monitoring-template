@@ -7,4 +7,4 @@ When extending it:
 - Keep ThingsLog credentials server-side.
 - Maintain the dashboard-first experience.
 - Use partner concepts: customer, site, device, sensor, counter, alarm.
-
+- Keep a visible "Powered by ThingsLog" link to `https://thingslog.com` in the portal UI.

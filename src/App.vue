@@ -112,7 +112,10 @@ function formatDate(value) {
           </div>
         </div>
       </section>
+
+      <footer class="powered-by">
+        Powered by <a href="https://thingslog.com" target="_blank" rel="noreferrer">ThingsLog</a>
+      </footer>
     </template>
   </main>
 </template>
-

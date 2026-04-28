@@ -5,4 +5,4 @@
 - Preserve mock mode.
 - Do not add `VITE_THINGSLOG_TOKEN`.
 - Add customer and site authorization before production use.
-
+- Keep a visible "Powered by ThingsLog" link to `https://thingslog.com` in the portal UI.
